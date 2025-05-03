@@ -1,3 +1,6 @@
+//Program to convert 24 hour format time to 12 hour format in WORDS.
+//Author - Vedika Udgir.
+
 #include <iostream>
 #include <stdbool.h>
 using namespace std;
