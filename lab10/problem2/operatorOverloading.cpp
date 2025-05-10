@@ -1,3 +1,6 @@
+//Program in Cpp to implement various operator overloading functions on strings.
+//Author - Vedika Udgir
+
 #include <iostream>
 #include <cstring>
 #include <stdbool.h>
