@@ -1,3 +1,6 @@
+//Program to reverse digits of a given number.
+//Author - Vedika Udgir
+
 #include <iostream>
 using namespace std;
 
